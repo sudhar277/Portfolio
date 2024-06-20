@@ -38,6 +38,7 @@ function Home() {
         </div>
       </div>
       <div className="footer">
+        <br></br>
         <a href={giturl}><img src={github} alt="GitHub" /></a>
         <a href={linkurl}><img src={linkedin} alt="LinkedIn" /></a>
         <a href={gfgurl}><img src={gfg} alt="GeeksforGeeks" /></a>
